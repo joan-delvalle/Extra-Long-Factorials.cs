@@ -1,1 +1,1 @@
-# Extra-Long-Factorials.cs
+# Extra-Long-Factorials.cs This C# program reads an integer **n** from the user and calls the function **extraLongFactorials(n)** to calculate its factorial. The function is currently empty, but it’s meant to handle very large numbers (bigger than what normal integer types can store).
